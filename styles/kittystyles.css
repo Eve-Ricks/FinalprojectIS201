@@ -14,6 +14,7 @@ body{background-color: rgb(158, 183, 208); color: rgb(34, 34, 34); font-family: 
     color: #f3f3f3;
     text-decoration: underline;
 }
+/*the divs*/
 /* Glowing header box */
 .glow-box h1 {
     color: #0c2a39;
